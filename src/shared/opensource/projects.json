@@ -2,54 +2,32 @@
     "data": [
         {
             "id": "1",
-            "name": "AllerTgy",
+            "name": "Lung Cancer Detection Using Machine Learning ",
             "createdAt": "2020-12-20T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/allertgy",
-            "description": "AllerTgy is a Deep Learning Application identifying ingredients present in food items and warns allergic patients.",
+            "url": "",
+            "description": "LCD is a Machine Learning Application identifying types of Cancer from the CT scans form patients.",
             "isFork": false,
             "languages": [
                 {
-                    "name": "React",
-                    "iconifyClass": "logos-react"
+                    "name": "Machine Learning",
+                    "iconifyClass": ""
                 },
                 {
-                    "name": "Django",
-                    "iconifyClass": "logos-django"
+                    "name": "Desnenet169",
+                    "iconifyClass": ""
                 },
                 {
-                    "name": "Flutter",
-                    "iconifyClass": "logos-flutter"
+                    "name": "Classifier",
+                    "iconifyClass": ""
                 }
             ]
         },
         {
             "id": "2",
-            "name": "Construction Management Information System",
-            "createdAt": "2021-05-01T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/pctppl-mis",
-            "description": "A full stack web application with role based access helping construction companies manage inventory.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "React",
-                    "iconifyClass": "logos-react"
-                },
-                {
-                    "name": "Django",
-                    "iconifyClass": "logos-django"
-                },
-                {
-                    "name": "Postgres",
-                    "iconifyClass": "logos-postgresql"
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "name": "Data Structure Visualiser",
+            "name": "Library Management System",
             "createdAt": "2019-10-31T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/",
-            "description": "An aid for teachers and students to understand and visualise data structures using animations.",
+            "url": "",
+            "description": "Full stack application for helping library workers to go paper-less for inventory management",
             "isFork": false,
             "languages": [
                 {
@@ -61,50 +39,23 @@
                     "iconifyClass": "logos-css-3"
                 },
                 {
-                    "name": "React",
-                    "iconifyClass": "logos-react"
+                    "name": "JAVA",
+                    "iconifyClass": ""
                 }
             ]
         },
+
         {
-            "id": "4",
-            "name": "Violence Detector",
-            "createdAt": "2020-07-10T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/Violence-detector",
-            "description": "A Real-Time Deep Learning application to detect any suspicious/violent activity based on CCTV footage.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Deep Learning",
-                    "iconifyClass": "carbon:network-2"
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": "Brain Haemmorhage Detection and Segmentation",
-            "createdAt": "2022-05-01T11:53:55Z",
-            "url": "https://github.com/prajwalpatankar/",
-            "description": "Deep learning model to detect acute intracranial haemorrhage and its subtypes, and segment site of haemorrhage.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Deep Learning",
-                    "iconifyClass": "carbon:network-2"
-                }
-            ]
-        },
-        {
-            "id": "6",
-            "name": "Lung Cancer Detector",
+            "id": "3",
+            "name": "Online Shopping WebApp",
             "createdAt": "2020-06-01T16:26:54Z",
-            "url": "https://github.com/prajwalpatankar/",
-            "description": "Deep learning model to detect Lung Cancer and its subtypes, and segment site of the cancer.",
+            "url": "",
+            "description": "Online Shopping Webapp using Django to make shopping easy",
             "isFork": false,
             "languages": [
                 {
                     "name": "Pytorch",
-                    "iconifyClass": "logos-pytorch"
+                    "iconifyClass": ""
                 }
             ]
         }
