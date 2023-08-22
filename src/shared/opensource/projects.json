@@ -48,13 +48,13 @@
         {
             "id": "3",
             "name": "Online Shopping WebApp",
-            "createdAt": "2020-06-01T16:26:54Z",
+            "createdAt": "2019-06-01T16:26:54Z",
             "url": "",
             "description": "Online Shopping Webapp using Django to make shopping easy",
             "isFork": false,
             "languages": [
                 {
-                    "name": "Pytorch",
+                    "name": "Django",
                     "iconifyClass": ""
                 }
             ]
