@@ -22,7 +22,7 @@ const greeting = {
   nickname: "Su_Jeet",
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
-  resumeLink: "https://drive.google.com/file/d/15XHT6jb7bhwExa5NzxfgoKwf_EZJqRgJ/view?usp=drive_link",
+  resumeLink: "https://drive.google.com/file/d/1TawXBGqxSgFgzqNYG_54BzmYllMWSmJg/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
