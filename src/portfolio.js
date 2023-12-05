@@ -642,6 +642,16 @@ const experience = {
           color: "#D83B01",
         },
         {
+          title: "Software Development Intern",
+          company: "ABS Certifications India Pvt. Ltd. Partner - TUV Austria",
+          company_url: "https://www.linkedin.com/company/abs-certifications-india-pvt-ltd-pune/",
+          logo_path: "TUV_logo.jpeg",
+          duration: "January 2021 - June 2021",
+          location: "Pune, Maharashtra",
+          description: "Spearheaded the development and optimization of the ERP system, resulting in a remarkable 20% increase in overall system efficiency. Diagnosed and resolved critical bugs and system issues, contributing to a 25% reduction in system downtime. Implemented agile methodologies, resulting in a 30% improvement in project delivery timelines",
+          color: "#D83B01",
+        },
+        {
           title: "Data Science and Business Analytics Intern",
           company: "Knowledge Solution India",
           company_url:
