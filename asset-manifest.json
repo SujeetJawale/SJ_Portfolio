@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SJ_Portfolio/static/css/main.4675399e.chunk.css",
-    "main.js": "/SJ_Portfolio/static/js/main.bffc768f.chunk.js",
-    "main.js.map": "/SJ_Portfolio/static/js/main.bffc768f.chunk.js.map",
+    "main.js": "/SJ_Portfolio/static/js/main.0c33a28d.chunk.js",
+    "main.js.map": "/SJ_Portfolio/static/js/main.0c33a28d.chunk.js.map",
     "runtime-main.js": "/SJ_Portfolio/static/js/runtime-main.a8b994bc.js",
     "runtime-main.js.map": "/SJ_Portfolio/static/js/runtime-main.a8b994bc.js.map",
-    "static/js/2.ecd49683.chunk.js": "/SJ_Portfolio/static/js/2.ecd49683.chunk.js",
-    "static/js/2.ecd49683.chunk.js.map": "/SJ_Portfolio/static/js/2.ecd49683.chunk.js.map",
+    "static/js/2.259f0dae.chunk.js": "/SJ_Portfolio/static/js/2.259f0dae.chunk.js",
+    "static/js/2.259f0dae.chunk.js.map": "/SJ_Portfolio/static/js/2.259f0dae.chunk.js.map",
     "index.html": "/SJ_Portfolio/index.html",
-    "precache-manifest.948a5bfefd9dc17ff1cbb3129db47aba.js": "/SJ_Portfolio/precache-manifest.948a5bfefd9dc17ff1cbb3129db47aba.js",
+    "precache-manifest.3b8cd077290974220baa3d25f9f4b4d7.js": "/SJ_Portfolio/precache-manifest.3b8cd077290974220baa3d25f9f4b4d7.js",
     "service-worker.js": "/SJ_Portfolio/service-worker.js",
     "static/css/main.4675399e.chunk.css.map": "/SJ_Portfolio/static/css/main.4675399e.chunk.css.map",
     "static/media/index.css": "/SJ_Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -45,6 +45,7 @@
     "static/media/ibm_logo.png": "/SJ_Portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/SJ_Portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/SJ_Portfolio/static/media/intel_logo.29152cf7.jpg",
+    "static/media/java.png": "/SJ_Portfolio/static/media/java.d369626e.png",
     "static/media/jsFramework.svg": "/SJ_Portfolio/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/SJ_Portfolio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/SJ_Portfolio/static/media/manOnTable.83ac24fb.svg",
@@ -71,8 +72,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a8b994bc.js",
-    "static/js/2.ecd49683.chunk.js",
+    "static/js/2.259f0dae.chunk.js",
     "static/css/main.4675399e.chunk.css",
-    "static/js/main.bffc768f.chunk.js"
+    "static/js/main.0c33a28d.chunk.js"
   ]
 }
