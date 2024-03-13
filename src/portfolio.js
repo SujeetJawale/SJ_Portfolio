@@ -6,8 +6,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Sujeet's Portfolio",
-  description:
-    "Creating an impact with end to end products.",
+  description: "Creating an impact with end to end products.",
   og: {
     title: "Sujeet Jawale Portfolio",
     type: "website",
@@ -22,7 +21,8 @@ const greeting = {
   nickname: "Su_Jeet",
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
-  resumeLink: "https://drive.google.com/file/d/13j-UtEJWBCu5d--WfptQDEdSggmUSAf7/view?usp=drive_link",
+  resumeLink:
+    "https://drive.google.com/file/d/13j-UtEJWBCu5d--WfptQDEdSggmUSAf7/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
@@ -87,10 +87,10 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚛️ Building stable and responsive website front end using React-Redux and AngularJS",
-        "⚛️ Designing extensible and easy to use APIs using Django-Rest Framework",
-        "⚛️ Creating scalable and fast application backends in Django, Flask, Node and Express",
-        "⚛️ Developing mobile applications using Android, Flutter and React Native",
+        "🔢 Building stable and responsive website front end using ReactJs and NextJs Framework",
+        "🔗 Designing extensible and easy to use Animated Websites using GSAP and Javascript",
+        "📝 Creating scalable and fast application backends in Spring Boot, Java, Node and Express",
+        "⚛️ Implementing comprehensive testing with JUnit, Selenium, and leveraging Docker for consistent development and deployment environments.",
       ],
       softwareSkills: [
         {
@@ -108,13 +108,6 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
@@ -129,17 +122,17 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        /*
+
         {
-          skillName: "AngularJS",
-          fontAwesomeClassname: "simple-icons:angularjs",
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
           style: {
-            color: "#d6002f",
+            color: "#000000",
           },
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
@@ -157,7 +150,14 @@ const skills = {
           style: {
             color: "#2C8EBB",
           },
-        },*/
+        },
+        {
+          skillName: "Sass",
+          fontAwesomeClassname: "simple-icons:sass",
+          style: {
+            color: "#CC6699",
+          },
+        },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -165,29 +165,30 @@ const skills = {
             color: "#f05133",
           },
         },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
+        {
+          skillName: "JUnit",
+          fontAwesomeClassname: "simple-icons:junit5",
+          style: {
+            color: "#25A162",
+          },
+        },
+        {
+          skillName: "Selenium",
+          fontAwesomeClassname: "simple-icons:selenium",
+          style: {
+            color: "#43B02A",
+          },
+        },
       ],
     },
     {
-      title: "Data Science & AI",
+      title: "Data Analytics & DS",
       fileName: "DataScienceImg",
       skills: [
-        "⚛️ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚛️ Experience of working with Computer Vision and NLP projects",
-        "⚛️ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "🔍 Skilled in data extraction, cleansing, and preparation, ensuring integrity and accuracy for actionable insights.",
+        "📊 Skilled in crafting and understanding intricate data models to guide strategic decisions in diverse business areas.",
+        "👁️‍🗨️ Experienced in using data visualization tools like Tableau, Power BI, and Looker to create clear dashboards and reports for all stakeholders.",
+        "🤖 Working knowledge of machine learning techniques and their application in business analytics to uncover hidden patterns and trends.",
       ],
       softwareSkills: [
         {
@@ -207,38 +208,72 @@ const skills = {
         },
         {
           skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          fontAwesomeClassname: "simple-icons:pytorch",
           style: {
-            backgroundColor: "transparent",
+            color: "#EE4C2C",
           },
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
-            backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
+          style: {
+            color: "#E97627",
+          },
+        },
+        {
+          skillName: "Power BI",
+          fontAwesomeClassname: "simple-icons:powerbi",
+          style: {
+            color: "#F2C811",
           },
         },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Database & Cloud",
       fileName: "CloudInfraImg",
       skills: [
-        "⚛️ Experience working on multiple cloud platforms",
+        "⚛️ Experience working on multiple Databases and multiple cloud platforms",
         "⚛️ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚛️ Deploying deep learning models on cloud to use on mobile devices",
         "⚛️ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
+        {
+          skillName: "MYSQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -260,27 +295,14 @@ const skills = {
         //     color: "#FFCA28",
         //   },
         // },
-        // {
-        //   skillName: "PostgreSQL",
-        //   fontAwesomeClassname: "simple-icons:postgresql",
-        //   style: {
-        //     color: "#336791",
-        //   },
-        // },
+
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
           style: {
-            color: "#47A248",
+            color: "#1488C6",
           },
         },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
         // {
         //   skillName: "Kubernetes",
         //   fontAwesomeClassname: "simple-icons:kubernetes",
@@ -349,7 +371,7 @@ const degrees = {
       duration: "2023-Present",
       descriptions: [
         "⚛️ Graduating in May 2025",
-        "⚛️ Courses Taken : CSCI 544: Applied Natural Language Processing ,CSCI 570: Analysis of Algorithms, CSCI 571: Web Technologies, CSCI 585: Database Systems",
+        "⚛️ Courses Taken : ISE-558 Data Management for Analytics, ISE-529 Predictive Analytics, ISE-530 Optimization for Analytics, ISE-548 Enterprise Business Intelligence Systems Analytics",
       ],
       website_link: "https://www.usc.edu/",
     },
@@ -475,7 +497,8 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+      title:
+        "Capstone: Retrieving, Processing, and Visualizing Data with Python",
       subtitle: "- Charles Severance",
       logo_path: "MICH_logo.png",
       certificate_link:
@@ -623,7 +646,8 @@ const experience = {
           logo_path: "ACM_logo.jpg",
           duration: "July 2020 - July 2021",
           location: "Pune, Maharashtra, India",
-          description: "🏆 Proud to have served as the Sports Head at PCCOE ACM Student Chapter for the year 2020-21! 🎉. It was an exhilarating journey organizing and managing thrilling tournaments for our talented student community. Witnessing the passion and sportsmanship on display during these events was truly inspiring. Bringing new opportunities for exciting activities was a goal close to my heart, and seeing our peers engage and excel in these activities made it all worth it.",
+          description:
+            "🏆 Proud to have served as the Sports Head at PCCOE ACM Student Chapter for the year 2020-21! 🎉. It was an exhilarating journey organizing and managing thrilling tournaments for our talented student community. Witnessing the passion and sportsmanship on display during these events was truly inspiring. Bringing new opportunities for exciting activities was a goal close to my heart, and seeing our peers engage and excel in these activities made it all worth it.",
           color: "#D83B01",
         },
       ],
@@ -638,17 +662,20 @@ const experience = {
           logo_path: "ptc_logo.jpg",
           duration: "August 2021 - June 2022",
           location: "Pune, Maharashtra",
-          description: "During my internship, I had the privilege of taking on challenging and impactful tasks that contributed to the development and enhancement of cutting-edge software solutions. One of my key responsibilities was conducting code analysis using SonarQ, where I identified critical issues and eliminated duplications, resulting in improved code quality and performance. I also delved into the realm of Unit and Integration Testing, leveraging my skills to ensure the reliability and robustness of the software. I actively contributed to resolving Software Problem Reports (SPRs), creating new Integration tests for specific features, thus addressing critical challenges and adding value to the product. This incredible journey has not only strengthened my technical prowess but also enriched my understanding of software development processes within a dynamic and innovative organization like PTC Software. I am excited to continue my journey, driving excellence and innovation in the realm of PLM software solutions.",
+          description:
+            "During my internship, I had the privilege of taking on challenging and impactful tasks that contributed to the development and enhancement of cutting-edge software solutions. One of my key responsibilities was conducting code analysis using SonarQ, where I identified critical issues and eliminated duplications, resulting in improved code quality and performance. I also delved into the realm of Unit and Integration Testing, leveraging my skills to ensure the reliability and robustness of the software. I actively contributed to resolving Software Problem Reports (SPRs), creating new Integration tests for specific features, thus addressing critical challenges and adding value to the product. This incredible journey has not only strengthened my technical prowess but also enriched my understanding of software development processes within a dynamic and innovative organization like PTC Software. I am excited to continue my journey, driving excellence and innovation in the realm of PLM software solutions.",
           color: "#D83B01",
         },
         {
           title: "Software Development Intern",
           company: "ABS Certifications India Pvt. Ltd. Partner - TUV Austria",
-          company_url: "https://www.linkedin.com/company/abs-certifications-india-pvt-ltd-pune/",
+          company_url:
+            "https://www.linkedin.com/company/abs-certifications-india-pvt-ltd-pune/",
           logo_path: "TUV_logo.jpeg",
           duration: "January 2021 - June 2021",
           location: "Pune, Maharashtra",
-          description: "Spearheaded the development and optimization of the ERP system, resulting in a remarkable 20% increase in overall system efficiency. Diagnosed and resolved critical bugs and system issues, contributing to a 25% reduction in system downtime. Implemented agile methodologies, resulting in a 30% improvement in project delivery timelines",
+          description:
+            "Spearheaded the development and optimization of the ERP system, resulting in a remarkable 20% increase in overall system efficiency. Diagnosed and resolved critical bugs and system issues, contributing to a 25% reduction in system downtime. Implemented agile methodologies, resulting in a 30% improvement in project delivery timelines",
           color: "#D83B01",
         },
         {
@@ -659,18 +686,19 @@ const experience = {
           logo_path: "KSI_logo.jpg",
           duration: "Feb 2021 - May 2021",
           location: "Pune, Mharashtra, India",
-          description: "Throughout this enriching experience, I underwent comprehensive training, equipping myself with cutting-edge skills and techniques in the dynamic realm of data science. 🌟 The month-long training laid a strong foundation for my data-driven endeavors. I had the privilege of contributing to two major projects during my internship: Heart Disease Analysis and Covid-19 Analysis. 🩺🦠 These projects allowed me to apply my analytical acumen to extract valuable insights from complex datasets, ultimately contributing to informed decision-making and valuable recommendations. Collaborating with the talented team at KSI, I experienced a supportive and innovative environment that nurtured my professional growth and honed my technical skills. I am now more determined than ever to forge a career in data science and drive positive change through data-powered solutions.",
+          description:
+            "Throughout this enriching experience, I underwent comprehensive training, equipping myself with cutting-edge skills and techniques in the dynamic realm of data science. 🌟 The month-long training laid a strong foundation for my data-driven endeavors. I had the privilege of contributing to two major projects during my internship: Heart Disease Analysis and Covid-19 Analysis. 🩺🦠 These projects allowed me to apply my analytical acumen to extract valuable insights from complex datasets, ultimately contributing to informed decision-making and valuable recommendations. Collaborating with the talented team at KSI, I experienced a supportive and innovative environment that nurtured my professional growth and honed my technical skills. I am now more determined than ever to forge a career in data science and drive positive change through data-powered solutions.",
           color: "#D83B01",
         },
         {
           title: "Data Science And Business Analytics Intern",
           company: "The Spark Foundation",
-          company_url:
-            "https://internship.thesparksfoundation.info/",
+          company_url: "https://internship.thesparksfoundation.info/",
           logo_path: "TSF_logo.jpg",
           duration: "Jan 2021 - Feb 2021",
           location: "Pune, Mharashtra, India",
-          description: "Collaborated on a database-driven projects. Data Science and Business Analytics Intern in TSF, Here we got training for one month and then we worked on two major projects. From data preprocessing and feature engineering to employing advanced machine learning algorithms, I thrived in the exploration and interpretation of data to unearth meaningful patterns and trends. 💡 My passion for data-driven problem-solving was further fueled by the impact these projects had on real-world challenges.",
+          description:
+            "Collaborated on a database-driven projects. Data Science and Business Analytics Intern in TSF, Here we got training for one month and then we worked on two major projects. From data preprocessing and feature engineering to employing advanced machine learning algorithms, I thrived in the exploration and interpretation of data to unearth meaningful patterns and trends. 💡 My passion for data-driven problem-solving was further fueled by the impact these projects had on real-world challenges.",
           color: "#D83B01",
         },
       ],
@@ -685,7 +713,8 @@ const experience = {
           logo_path: "pccoe_logo1.png",
           duration: "June 2019 - June 2021",
           location: "Pune, Maharashtra, India",
-          description: "Manages and handle Recruitment Drives with the help of volunteers from meetings to aptitude test interviews and Panel handling.",
+          description:
+            "Manages and handle Recruitment Drives with the help of volunteers from meetings to aptitude test interviews and Panel handling.",
           color: "#D83B01",
         },
         {
@@ -695,7 +724,8 @@ const experience = {
           logo_path: "ACM_logo.jpg",
           duration: "June 2019 - July 2020",
           location: "Pune, Maharashtra, India",
-          description: "Sports Cell Coordinator - PCCOE ACM Student Chapter for the year 2019-20.",
+          description:
+            "Sports Cell Coordinator - PCCOE ACM Student Chapter for the year 2019-20.",
           color: "#D83B01",
         },
         {
@@ -705,7 +735,8 @@ const experience = {
           logo_path: "KPIT_logo.jpg",
           duration: "Feb 2020",
           location: "Pune, Maharashtra, India",
-          description:"The Food Committee for the KPIT Sparkle event held at PCCOE. Managing the food for all the teams, staff, and students. ",
+          description:
+            "The Food Committee for the KPIT Sparkle event held at PCCOE. Managing the food for all the teams, staff, and students. ",
           color: "#D83B01",
         },
         {
@@ -715,7 +746,7 @@ const experience = {
           logo_path: "NSS_logo.jpg",
           duration: "July 2020 - July 2021",
           location: "Pune, Maharashtra, India",
-          description:"Civil Rights and Social Action. ",
+          description: "Civil Rights and Social Action. ",
           color: "#D83B01",
         },
       ],
@@ -727,32 +758,36 @@ const experience = {
           title: "Gym",
           company: "",
           logo_path: "gym_logo.jpg",
-          description: "I enjoy Gyming as a sport. I spend atleast 2 hours a day in gym 5 times a week. Do a high-intensity workout and it's a good way to relax and feel good.",
+          description:
+            "I enjoy Gyming as a sport. I spend atleast 2 hours a day in gym 5 times a week. Do a high-intensity workout and it's a good way to relax and feel good.",
           color: "#D83B01",
         },
         {
           title: "eSports",
           company: "",
-          logo_path:"BGMI_logo.jpg",
-          description: "I enjoy playing competitive games like BGMI and Valorant. I have participated and Organized in multiple Valorant tournaments. Have Achieved ACE in BGMI and Gold in Valorant.",
+          logo_path: "BGMI_logo.jpg",
+          description:
+            "I enjoy playing competitive games like BGMI and Valorant. I have participated and Organized in multiple Valorant tournaments. Have Achieved ACE in BGMI and Gold in Valorant.",
           color: "#D83B01",
         },
         {
           title: "Photography",
           company: "",
           logo_path: "camera.png",
-          description: "I'm always carrying a camera around. Even as a hobby, photography has the power to lift people's spirits and help them look at things from a different perspective.",
+          description:
+            "I'm always carrying a camera around. Even as a hobby, photography has the power to lift people's spirits and help them look at things from a different perspective.",
           color: "#D83B01",
         },
         {
           title: "Trekking",
           company: "",
-          logo_path:"TREK_logo.jpg",
-          description: "Always been a Nature Lover. On weekends, I love going on long Treks with my friends. We all trek for different reasons, and sometimes for all the reasons: fun, adventure, to bond with friends, to relax, meditation, to make the commute more interesting,. The reasons are infinite.",
+          logo_path: "TREK_logo.jpg",
+          description:
+            "Always been a Nature Lover. On weekends, I love going on long Treks with my friends. We all trek for different reasons, and sometimes for all the reasons: fun, adventure, to bond with friends, to relax, meditation, to make the commute more interesting,. The reasons are infinite.",
           color: "#D83B01",
         },
-      ]
-    }
+      ],
+    },
   ],
 };
 
@@ -792,25 +827,17 @@ const contactPageData = {
     description:
       "Open to work as a Software Engineer Intern for the summer of 2024. You can get in touch with me on my email :)",
   },
-  // blogSection: {
-  //   title: "Blogs",
-  //   subtitle:
-  //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-  //   link: "https://ashutoshhathidara.wordpress.com",
-  //   avatar_image_path: "blogs_image.svg",
-  // },
+
   addressSection: {
     title: "Email Address",
-    subtitle:
-      "sjawale@usc.edu ",
-    email2:
-    "jawalesujeet10@gmail.com",
+    subtitle: "sjawale@usc.edu ",
+    email2: "jawalesujeet10@gmail.com",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8669058866",
+    subtitle: "+1(213)6572374",
   },
 };
 
