@@ -31,10 +31,11 @@ export default function Greeting(props) {
                 <Button
                   text="📧 Contact Me"
                   newTab={false}
-                  href={"/#/contact/"}
+                  href={"/SJ_Portfolio/#/contact"}
                   theme={theme}
                   className="portfolio-repo-btn"
-                />&nbsp;&nbsp;&nbsp;
+                />
+                &nbsp;&nbsp;&nbsp;
                 <Button
                   text="📜 See my Resume"
                   newTab={true}
