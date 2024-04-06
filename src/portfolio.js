@@ -61,24 +61,24 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/JawaleSujeet",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/sujeet.jawale.3",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/sujeet_jawale/?next=%2F",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
+  // {
+  //   name: "Twitter",
+  //   link: "https://twitter.com/JawaleSujeet",
+  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  // },
+  // {
+  //   name: "Facebook",
+  //   link: "https://www.facebook.com/sujeet.jawale.3",
+  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  // },
+  // {
+  //   name: "Instagram",
+  //   link: "https://www.instagram.com/sujeet_jawale/?next=%2F",
+  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  // },
 ];
 
 const skills = {
@@ -144,20 +144,20 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699",
+        //   },
+        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -281,13 +281,13 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
+        // {
+        //   skillName: "Azure",
+        //   fontAwesomeClassname: "simple-icons:microsoftazure",
+        //   style: {
+        //     color: "#0089D6",
+        //   },
+        // },
         // {
         //   skillName: "Firebase",
         //   fontAwesomeClassname: "simple-icons:firebase",
@@ -672,7 +672,7 @@ const experience = {
           company_url:
             "https://www.linkedin.com/company/abs-certifications-india-pvt-ltd-pune/",
           logo_path: "TUV_logo.jpeg",
-          duration: "January 2021 - June 2021",
+          duration: "August 2020 - January 2021",
           location: "Pune, Maharashtra",
           description:
             "Spearheaded the development and optimization of the ERP system, resulting in a remarkable 20% increase in overall system efficiency. Diagnosed and resolved critical bugs and system issues, contributing to a 25% reduction in system downtime. Implemented agile methodologies, resulting in a 30% improvement in project delivery timelines",
@@ -706,6 +706,17 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+        {
+          title: "Art of Living AOL",
+          company: "AOL - Social Service",
+          company_url: "http://www.pccoepune.com/",
+          logo_path: "AOL.png",
+          duration: "August 2023 - present",
+          location: "Los Angeles, California",
+          description:
+            " I organized various spiritual gatherings and meditation workshops, fostering community and personal growth. My role was pivotal in creating serene environments for attendees to explore mindfulness and inner peace.",
+          color: "#D83B01",
+        },
         {
           title: "Training and Placement Cell (Overall Volunteer)",
           company: "PCCOE",

@@ -1,63 +1,128 @@
 {
-    "data": [
+  "data": [
+    {
+      "id": "1",
+      "name": "Global Stock Insights Dashboard ",
+      "createdAt": "2024-02-01T16:26:54Z",
+      "url": "",
+      "description": "Implemented 3 multi-dimensional filters for tailored analysis, enabling users to sift through data by country, brand, and date",
+      "isFork": false,
+      "languages": [
         {
-            "id": "1",
-            "name": "Lung Cancer Detection Using Machine Learning ",
-            "createdAt": "2020-12-20T16:26:54Z",
-            "url": "",
-            "description": "LCD is a Machine Learning Application identifying types of Cancer from the CT scans form patients.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Machine Learning",
-                    "iconifyClass": ""
-                },
-                {
-                    "name": "Desnenet169",
-                    "iconifyClass": ""
-                },
-                {
-                    "name": "Classifier",
-                    "iconifyClass": ""
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "name": "Library Management System",
-            "createdAt": "2019-10-31T16:26:54Z",
-            "url": "",
-            "description": "Full stack application for helping library workers to go paper-less for inventory management",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JAVA",
-                    "iconifyClass": ""
-                }
-            ]
-        },
-
-        {
-            "id": "3",
-            "name": "Online Shopping WebApp",
-            "createdAt": "2019-06-01T16:26:54Z",
-            "url": "",
-            "description": "Online Shopping Webapp using Django to make shopping easy",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Django",
-                    "iconifyClass": ""
-                }
-            ]
+          "name": "Tableau",
+          "iconifyClass": "logos-tableau"
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Credit Card Transaction Fraud Prediction",
+      "createdAt": "2023-09-01T16:26:54Z",
+      "url": "",
+      "description": "Developed fraud detection model for analyzing 96,753 transactions, saving over $300K annually by identifying fraud activities",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Lung Cancer Detection Using Machine Learning ",
+      "createdAt": "2020-12-20T16:26:54Z",
+      "url": "",
+      "description": "LCD is a Machine Learning Application identifying types of Cancer from the CT scans form patients.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Twitter Clone",
+      "createdAt": "2019-08-10T16:26:54Z",
+      "url": "",
+      "description": "Orchestrated full stack Spring boot project from inception to deployment, mastering both front-end and back-end development techniques, and enhancing application performance by 20% through effective environment setup and deployment strategies",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Library Management System",
+      "createdAt": "2019-10-31T16:26:54Z",
+      "url": "",
+      "description": "Full stack application for helping library workers to go paper-less for inventory management",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Online Shopping WebApp",
+      "createdAt": "2019-06-01T16:26:54Z",
+      "url": "",
+      "description": "Online Shopping Webapp using Django to make shopping easy",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
 }

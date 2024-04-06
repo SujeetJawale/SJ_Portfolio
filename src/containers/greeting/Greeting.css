@@ -53,6 +53,8 @@
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
+  overflow: hidden;
+  border-radius: 50%;
 }
 
 /* Media Query */

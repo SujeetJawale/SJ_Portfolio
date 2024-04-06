@@ -9,7 +9,7 @@ class FeelingProud extends Component {
         data-name="Layer 1"
         xmlns="http://www.w3.org/2000/svg"
         width="711.1879"
-        height="669.68268"
+        height="580.68268"
         viewBox="0 0 711.1879 669.68268"
       >
         <title>prajwal_does_not_look_like_this</title>
