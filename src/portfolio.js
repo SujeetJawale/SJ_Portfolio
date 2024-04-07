@@ -384,7 +384,7 @@ const degrees = {
       descriptions: [
         "⚛️ CGPA : 3.70 / 4",
         "⚛️ Third Year Engineering topper with a GPA of 4/4.",
-        "⚛️ Course Work : Data Mining and Warehouse, Machine Learning, Web Technology, Artificial Intelligence and Robotics, Database Management Systems, Computer Networks, Operating Systems, Theory of Computation, Software Engineering & Project Management, Cloud Computing, Data Science and Big Data Analytics, Computer Organisation and Architecture, High Performance Computing",
+        "⚛️ Course Work : Data Mining and Warehouse, Machine Learning, Web Technology, Artificial Intelligence and Robotics, Database Management Systems, Computer Networks, Operating Systems, Theory of Computation, Software Engineering & Project Management, Cloud Computing, Data Science and Big Data Analytics, Computer Organization and Architecture, High Performance Computing",
       ],
       website_link: "http://www.pccoepune.com/",
     },
@@ -636,8 +636,12 @@ const experience = {
           logo_path: "ptc_logo.jpg",
           duration: "July 2022 - July 2023",
           location: "Pune, Maharashtra",
-          description:
-            "Worked as a PLM Team member, highly skilled and dedicated professional, I specialize in performing complex analysis, designing, and programming to effectively address and fulfill diverse business requirements. I take pride in my ability to develop, maintain, and manage sophisticated systems, software tools, and applications to optimize organizational processes. Was involved in the development and enhancement of the Business Administrative Change Module, a pivotal tool utilized for Import and Export purposes, along with the implementation of the Import Export Framework. With a proven track record of excellence in complex software development and a passion for driving business success, I am committed to delivering exceptional results and contributing significantly to organizational growth and innovation.",
+          description: [
+            "💠 Designed Application Export Handler for the Import Export Framework, resulting in a 35% reduction in data export times and enhancing operational efficiency by streamlining data export process",
+            "💠 Applied object-oriented designs SOLID principles in designing layered MVC architecture boosting code scalability and flexibility",
+            "💠 Spearheaded refinement of data interchange platform's, import wizard UI with ReactJS, leading to 40% uplift in user satisfaction",
+            "💠 Engineered RESTful APIs for efficient, seamless data communication and system integration, leveraging Spring Boot to optimize development efficiency resulting in a 30% improvement in system response times",
+          ],
           color: "#0879bf",
         },
         {
@@ -647,8 +651,12 @@ const experience = {
           logo_path: "ACM_logo.jpg",
           duration: "July 2020 - July 2021",
           location: "Pune, Maharashtra, India",
-          description:
-            "🏆 Proud to have served as the Sports Head at PCCOE ACM Student Chapter for the year 2020-21! 🎉. It was an exhilarating journey organizing and managing thrilling tournaments for our talented student community. Witnessing the passion and sportsmanship on display during these events was truly inspiring. Bringing new opportunities for exciting activities was a goal close to my heart, and seeing our peers engage and excel in these activities made it all worth it.",
+          description: [
+            "🏆 Proud to have served as the Sports Head at PCCOE ACM Student Chapter for the year 2020-21!",
+            "🏆 It was an exhilarating journey organizing and managing thrilling tournaments for our talented student community.",
+            "🏆 Witnessing the passion and sportsmanship on display during these events was truly inspiring.",
+            "🏆 Bringing new opportunities for exciting activities was a goal close to my heart, and seeing our peers engage and excel in these activities made it all worth it.",
+          ],
           color: "#D83B01",
         },
       ],
@@ -663,8 +671,11 @@ const experience = {
           logo_path: "ptc_logo.jpg",
           duration: "August 2021 - June 2022",
           location: "Pune, Maharashtra",
-          description:
-            "During my internship, I had the privilege of taking on challenging and impactful tasks that contributed to the development and enhancement of cutting-edge software solutions. One of my key responsibilities was conducting code analysis using SonarQ, where I identified critical issues and eliminated duplications, resulting in improved code quality and performance. I also delved into the realm of Unit and Integration Testing, leveraging my skills to ensure the reliability and robustness of the software. I actively contributed to resolving Software Problem Reports (SPRs), creating new Integration tests for specific features, thus addressing critical challenges and adding value to the product. This incredible journey has not only strengthened my technical prowess but also enriched my understanding of software development processes within a dynamic and innovative organization like PTC Software. I am excited to continue my journey, driving excellence and innovation in the realm of PLM software solutions.",
+          description: [
+            "💠 Investigated software issues and tracked quality assurance metrics, defect counts with in-house SPR Software Performance Report Tracker Integrity tool, leading to a 20% reduction in defects",
+            "💠 Spearheaded migration of two web services modules from Java 8 to 11, tackling challenges like JPMS encapsulation, class path resolution and java.se.ee modules removal guaranteeing a seamless and efficient transition without disrupting existing services",
+            "💠 Achieved 90% Java 11 test coverage through Jenkins in CI/CD, deploying SonarQube, for code quality and reducing security risks",
+          ],
           color: "#D83B01",
         },
         {
@@ -675,8 +686,11 @@ const experience = {
           logo_path: "TUV_logo.jpeg",
           duration: "August 2020 - January 2021",
           location: "Pune, Maharashtra",
-          description:
-            "Spearheaded the development and optimization of the ERP system, resulting in a remarkable 20% increase in overall system efficiency. Diagnosed and resolved critical bugs and system issues, contributing to a 25% reduction in system downtime. Implemented agile methodologies, resulting in a 30% improvement in project delivery timelines",
+          description: [
+            "💠 Architected microservices for no-code integration platform using Spring Framework, boosting integration speed by 30%",
+            "💠 Devised data modeling and database design, integrating Java multithreading and optimized queries, upgrading retrieval by 25%",
+            "💠 Revamped login process with algorithmic optimizations, making execution 4x faster and near-instantaneous responsiveness",
+          ],
           color: "#D83B01",
         },
         {
@@ -687,8 +701,11 @@ const experience = {
           logo_path: "KSI_logo.jpg",
           duration: "Feb 2021 - May 2021",
           location: "Pune, Mharashtra, India",
-          description:
-            "Throughout this enriching experience, I underwent comprehensive training, equipping myself with cutting-edge skills and techniques in the dynamic realm of data science. 🌟 The month-long training laid a strong foundation for my data-driven endeavors. I had the privilege of contributing to two major projects during my internship: Heart Disease Analysis and Covid-19 Analysis. 🩺🦠 These projects allowed me to apply my analytical acumen to extract valuable insights from complex datasets, ultimately contributing to informed decision-making and valuable recommendations. Collaborating with the talented team at KSI, I experienced a supportive and innovative environment that nurtured my professional growth and honed my technical skills. I am now more determined than ever to forge a career in data science and drive positive change through data-powered solutions.",
+          description: [
+            "💠 Managed development of a structured product catalog by utilizing data extraction and transformation (ETL), along with demand analysis in SQL and Tableau, leading to raise in product quality and significant annual cost savings",
+            "💠 Conducted in-depth data analysis on key projects, such as a Covid-19 study, using SQL and Python for insights and manipulation",
+            "💠 Elevated data science workflows, securing 15% more efficiency in project cycles, and Tableau for insightful visualizations",
+          ],
           color: "#D83B01",
         },
         {
