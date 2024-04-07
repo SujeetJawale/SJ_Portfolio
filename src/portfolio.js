@@ -22,7 +22,7 @@ const greeting = {
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1DX4t7n21s0plNglY1iB4q8inyx-xWVsF/view?usp=sharing",
+    "https://drive.google.com/file/d/12-9O2xMrHDZjaILZOk-EbdxZREZrZwGi/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
@@ -326,14 +326,14 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/sjawale/",
     },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "hhttps://www.hackerrank.com/jawalesujeet10?hr_r=1",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "hhttps://www.hackerrank.com/jawalesujeet10?hr_r=1",
+    // },
     // {
     //   siteName: "Codechef",
     //   iconifyClassname: "simple-icons:codechef",
@@ -470,14 +470,15 @@ const certifications = {
     //   alt_name: "Java",
     //   color_code: "#fff",
     // },
-    // {
-    //   title: "Java Programming: Arrays, Lists, and Structured Data",
-    //   subtitle: "- Andrew Hilton",
-    //   logo_path: "duke.jpg",
-    //   certificate_link: "https://www.coursera.org/account/accomplishments/verify/4A2MJPYD7WD5",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#fff",
-    // },
+    {
+      title: "Advance Java Programming",
+      subtitle: "Bethan Palmer",
+      logo_path: "LinkedinL.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/3a031ef5a2ce34cd5931acb6e88a6ee69d2f63f6511556a5977bd285e7c47311",
+      alt_name: "Java",
+      color_code: "#fff",
+    },
     {
       title: "Python for Everybody",
       subtitle: "- Charles Severance",
