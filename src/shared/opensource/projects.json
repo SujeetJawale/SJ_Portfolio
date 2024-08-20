@@ -2,6 +2,28 @@
   "data": [
     {
       "id": "1",
+      "name": "Brain-Buster Quiz Application",
+      "createdAt": "2024-06-01T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
+      "description": "Developed a microservice architecture web application using Java, Spring Boot, RESTful APIs, and MySQL, as an interactive quiz platform where users can create custom quizzes, answer questions, and track scores in real-time",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "2",
       "name": "Global Stock Insights Dashboard ",
       "createdAt": "2024-02-01T16:26:54Z",
       "url": "",
@@ -11,24 +33,6 @@
         {
           "name": "Tableau",
           "iconifyClass": "logos-tableau"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "Credit Card Transaction Fraud Prediction",
-      "createdAt": "2023-09-01T16:26:54Z",
-      "url": "",
-      "description": "Developed fraud detection model for analyzing 96,753 transactions, saving over $300K annually by identifying fraud activities",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "AWS",
-          "iconifyClass": "logos-aws"
         }
       ]
     },
