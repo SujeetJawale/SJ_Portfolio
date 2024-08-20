@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53c135991ec83d270a282f98f2414652",
+    "revision": "6a3d65da0848ee5e69ca4bbf300ce5c5",
     "url": "/SJ_Portfolio/index.html"
   },
   {
-    "revision": "3eede4b3870d000cd3f6",
+    "revision": "1bbd144001fda3b3dd76",
     "url": "/SJ_Portfolio/static/css/main.108cca5f.chunk.css"
   },
   {
-    "revision": "07943703f043fae94680",
-    "url": "/SJ_Portfolio/static/js/2.01a14ca2.chunk.js"
+    "revision": "cac89a39dff58f5dc40f",
+    "url": "/SJ_Portfolio/static/js/2.eda8c8b5.chunk.js"
   },
   {
-    "revision": "3eede4b3870d000cd3f6",
-    "url": "/SJ_Portfolio/static/js/main.5e8d4834.chunk.js"
+    "revision": "1bbd144001fda3b3dd76",
+    "url": "/SJ_Portfolio/static/js/main.11982d70.chunk.js"
   },
   {
     "revision": "fedf123bde69b445f4a6",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SJ_Portfolio/static/media/NSS_logo.ad1eb7b4.jpg"
   },
   {
+    "revision": "fd7a0beea26f4adfc7f26ae9a5797ad5",
+    "url": "/SJ_Portfolio/static/media/Sujeet1.fd7a0bee.png"
+  },
+  {
     "revision": "e86a7ea1402a094d4c60f061821007c8",
     "url": "/SJ_Portfolio/static/media/TREK_logo.e86a7ea1.jpg"
   },
@@ -80,20 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SJ_Portfolio/static/media/address_image.16559172.svg"
   },
   {
-    "revision": "e11fd0441a500f73038c9a91faf61903",
-    "url": "/SJ_Portfolio/static/media/android-chrome-192x192.e11fd044.png"
+    "revision": "163112302be7801ddad75e0c63d8cc64",
+    "url": "/SJ_Portfolio/static/media/android-chrome-192x192.16311230.png"
   },
   {
-    "revision": "b702c160b3457c5fbfd16a03d352af03",
-    "url": "/SJ_Portfolio/static/media/android-chrome-512x512.b702c160.png"
+    "revision": "8659cef2b4c45c45d079ea8054be9400",
+    "url": "/SJ_Portfolio/static/media/android-chrome-512x512.8659cef2.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/SJ_Portfolio/static/media/animated_logo.dcd6dee2.svg"
   },
   {
-    "revision": "cba956705c9c250a4c739dca92a8fd85",
-    "url": "/SJ_Portfolio/static/media/apple-touch-icon.cba95670.png"
+    "revision": "a6e89974d3a459f7c4243b0876cfb7c1",
+    "url": "/SJ_Portfolio/static/media/apple-touch-icon.a6e89974.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -122,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/SJ_Portfolio/static/media/developerActivity.3e23ca14.svg"
-  },
-  {
-    "revision": "63f707f224c8a842ac928c36e3be879a",
-    "url": "/SJ_Portfolio/static/media/dsc_logo.63f707f2.png"
   },
   {
     "revision": "67da98973112ab5d676a843f5e1ef71f",
@@ -200,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SJ_Portfolio/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "ba50eb78d8e19c554c76c2264fe15f41",
-    "url": "/SJ_Portfolio/static/media/favicon.ba50eb78.ico"
+    "revision": "9533a5def520246962cb4923849dcc21",
+    "url": "/SJ_Portfolio/static/media/favicon.9533a5de.ico"
   },
   {
     "revision": "88e3da52af32975ecf8ef09873d22ed7",
@@ -296,10 +296,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SJ_Portfolio/static/media/profile-removebg-preview.1483d47b.png"
   },
   {
-    "revision": "91c22ca7f6a3af5ee7b0070d8933ec94",
-    "url": "/SJ_Portfolio/static/media/profile.91c22ca7.JPG"
-  },
-  {
     "revision": "5faf790badc18fa9030f94836ece1df1",
     "url": "/SJ_Portfolio/static/media/programmer.5faf790b.svg"
   },
@@ -310,6 +306,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/SJ_Portfolio/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "d286b81d7cd672900da71dafaf94e711",
+    "url": "/SJ_Portfolio/static/media/rest.d286b81d.png"
   },
   {
     "revision": "02b86b6c5d2755b9d7c2a160550787a3",
