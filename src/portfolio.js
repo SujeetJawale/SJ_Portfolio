@@ -18,7 +18,7 @@ const seo = {
 const greeting = {
   title: "Sujeet Jawale",
   logo_name: "Sujeet Jawale",
-  nickname: "Su_Jeet",
+  nickname: "SuJeet",
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
   resumeLink:
