@@ -22,7 +22,7 @@ const greeting = {
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1o78upyWGRaNewS2iIh4XXOVVn3kO88By/view?usp=sharing",
+    "https://drive.google.com/file/d/1hV9DEivlRqRGOys9xE9eR6Mo4SSgrrIh/view?usp=sharing",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
@@ -433,7 +433,7 @@ const experience = {
           duration: "May 2024 - August 2024",
           location: "United States",
           description: [
-            "Enhanced notification effectiveness by 25% with WhatsApp API integration, improved cloud-native security with Java Spring rate limiting reducing attack risk by 45% and costs by 23%, refined login API rate-limiting with JPA composite keys, and boosted user access by 30% through strengthened JWT authentication and OAuth integration.",
+            "Enhanced notification effectiveness by 25% with WhatsApp API integration, improved cloud-native security with Java Spring rate limiting reducing attack risk by 45% and costs by 23%, refined login API rate-limiting with JPA composite keys.",
           ],
           color: "#0879bf",
         },
@@ -445,7 +445,7 @@ const experience = {
           duration: "July 2022 - July 2023",
           location: "Pune, Maharashtra",
           description: [
-            "Optimized Windchill’s data export process, reduced export times by 25%, migrated modules to Java 17, cut deployment time by 30%, improved user satisfaction by 40%, and decreased issue resolution time by 20%",
+            "Successfully led key enhancements in Windchill's Import Export Framework, optimized data export efficiency by 25%, ensured seamless Java 11 to 17 migration, improved user satisfaction by 40%, and mentored interns to achieve a 30% reduction in deployment time with zero downtime during releases.",
           ],
           color: "#0879bf",
         },
@@ -457,7 +457,7 @@ const experience = {
           duration: "August 2021 - June 2022",
           location: "Pune, Maharashtra",
           description: [
-            "Reduced defects by 20% and post-deployment issues by 25% through improved testing and metrics tracking enhanced API documentation with Swagger, boosting integration efficiency by 15%; and achieved 90% test coverage with Jenkins and SonarQube, lowering security risks",
+            "Refined code to meet client specifications, led JUnit and integration testing with 90% coverage in CI/CD, reduced post-deployment issues by 25%, improved code quality using SonarQube, streamlined logging with Log4j for a 20% faster issue resolution, and enhanced API documentation with Swagger, boosting integration efficiency by 15%.",
           ],
           color: "#D83B01",
         },
@@ -494,7 +494,7 @@ const experience = {
           duration: "August 2020 - January 2021",
           location: "Pune, Maharashtra",
           description: [
-            "Reduced code duplication and performed basic JUnit testing while working on Java development during an undergraduate internship, contributing to improved code quality and project efficiency",
+            "Developed a Spring Boot application with PostgreSQL for employee management, enhancing user management and audit data, while strengthening JWT authentication and integrating OAuth with the latest Spring Security updates, leading to a 30% increase in user access.",
           ],
           color: "#D83B01",
         },
