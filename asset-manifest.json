@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SJ_Portfolio/static/css/main.108cca5f.chunk.css",
-    "main.js": "/SJ_Portfolio/static/js/main.f223699f.chunk.js",
-    "main.js.map": "/SJ_Portfolio/static/js/main.f223699f.chunk.js.map",
+    "main.css": "/SJ_Portfolio/static/css/main.5619d4b7.chunk.css",
+    "main.js": "/SJ_Portfolio/static/js/main.695cc505.chunk.js",
+    "main.js.map": "/SJ_Portfolio/static/js/main.695cc505.chunk.js.map",
     "runtime-main.js": "/SJ_Portfolio/static/js/runtime-main.a8b994bc.js",
     "runtime-main.js.map": "/SJ_Portfolio/static/js/runtime-main.a8b994bc.js.map",
-    "static/js/2.eda8c8b5.chunk.js": "/SJ_Portfolio/static/js/2.eda8c8b5.chunk.js",
-    "static/js/2.eda8c8b5.chunk.js.map": "/SJ_Portfolio/static/js/2.eda8c8b5.chunk.js.map",
+    "static/js/2.0d4bccbf.chunk.js": "/SJ_Portfolio/static/js/2.0d4bccbf.chunk.js",
+    "static/js/2.0d4bccbf.chunk.js.map": "/SJ_Portfolio/static/js/2.0d4bccbf.chunk.js.map",
     "index.html": "/SJ_Portfolio/index.html",
-    "precache-manifest.e9abd88aa943d580304c0f1de87eb08b.js": "/SJ_Portfolio/precache-manifest.e9abd88aa943d580304c0f1de87eb08b.js",
+    "precache-manifest.11ce42a90536f896a7d7fcba5d3ecdf2.js": "/SJ_Portfolio/precache-manifest.11ce42a90536f896a7d7fcba5d3ecdf2.js",
     "service-worker.js": "/SJ_Portfolio/service-worker.js",
-    "static/css/main.108cca5f.chunk.css.map": "/SJ_Portfolio/static/css/main.108cca5f.chunk.css.map",
+    "static/css/main.5619d4b7.chunk.css.map": "/SJ_Portfolio/static/css/main.5619d4b7.chunk.css.map",
     "static/media/index.css": "/SJ_Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IEEE.png": "/SJ_Portfolio/static/media/IEEE.42380c0a.png",
     "static/media/MICH_logo.png": "/SJ_Portfolio/static/media/MICH_logo.f7711b12.png",
@@ -65,6 +65,7 @@
     "static/media/rest.png": "/SJ_Portfolio/static/media/rest.d286b81d.png",
     "static/media/rhythm.png": "/SJ_Portfolio/static/media/rhythm.02b86b6c.png",
     "static/media/site.webmanifest": "/SJ_Portfolio/static/media/site.053100cb.webmanifest",
+    "static/media/sj1.png": "/SJ_Portfolio/static/media/sj1.cfb53481.png",
     "static/media/stanford_logo.png": "/SJ_Portfolio/static/media/stanford_logo.2c497738.png",
     "static/media/swimming.jpg": "/SJ_Portfolio/static/media/swimming.7795ea66.jpg",
     "static/media/talksCardBack.svg": "/SJ_Portfolio/static/media/talksCardBack.6ac91b16.svg",
@@ -73,8 +74,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a8b994bc.js",
-    "static/js/2.eda8c8b5.chunk.js",
-    "static/css/main.108cca5f.chunk.css",
-    "static/js/main.f223699f.chunk.js"
+    "static/js/2.0d4bccbf.chunk.js",
+    "static/css/main.5619d4b7.chunk.css",
+    "static/js/main.695cc505.chunk.js"
   ]
 }
