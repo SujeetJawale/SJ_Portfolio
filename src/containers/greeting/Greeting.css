@@ -24,6 +24,7 @@
 .greeting-main > * {
   flex: 1;
   margin-bottom: 30px;
+  margin-left: 50px;
 }
 .button-greeting-div {
   display: flex;
@@ -55,7 +56,7 @@
   height: auto;
   overflow: hidden;
   border-radius: 50%;
-  box-shadow: 10px 5px 5px grey;
+  box-shadow: 5px 5px 5px rgb(224, 222, 222);
 }
 
 /* Media Query */
