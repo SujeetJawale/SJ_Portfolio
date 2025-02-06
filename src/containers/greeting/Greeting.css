@@ -52,7 +52,7 @@
 }
 
 .greeting-image-div > * {
-  max-width: 100%;
+  max-width: 85%;
   height: auto;
   overflow: hidden;
   border-radius: 50%;

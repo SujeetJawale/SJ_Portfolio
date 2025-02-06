@@ -2,64 +2,88 @@
   "data": [
     {
       "id": "1",
-      "name": "Brain-Buster Quiz Application",
-      "createdAt": "2024-06-01T16:26:54Z",
-      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
-      "description": "Developed a microservice architecture web application using Java, Spring Boot, RESTful APIs, and MySQL, as an interactive quiz platform where users can create custom quizzes, answer questions, and track scores in real-time",
+      "name": "Weather Application",
+      "createdAt": "2024-07-01T16:26:54Z",
+      "url": "https://weatherappreact-441809.uw.r.appspot.com/",
+      "description": "A weather app built as the final project for a course, providing real-time weather updates.",
       "isFork": false,
       "languages": [
         {
-          "name": "SPRINGBOOT",
-          "iconifyClass": "logos-spring"
+          "name": "Typescript",
+          "iconifyClass": "logos-typescript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Brain-Buster Quiz Application",
+      "createdAt": "2024-05-01T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
+      "description": "A microservices-based quiz platform offering RESTful APIs for quiz creation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
         },
         {
           "name": "MYSQL",
           "iconifyClass": "logos-mysql"
         },
         {
-          "name": "JAVA",
-          "iconifyClass": "logos-java"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "Global Stock Insights Dashboard ",
-      "createdAt": "2024-02-01T16:26:54Z",
-      "url": "",
-      "description": "Implemented 3 multi-dimensional filters for tailored analysis, enabling users to sift through data by country, brand, and date",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Tableau",
-          "iconifyClass": "logos-tableau"
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
         }
       ]
     },
     {
       "id": "3",
-      "name": "Lung Cancer Detection Using Machine Learning ",
-      "createdAt": "2020-12-20T16:26:54Z",
+      "name": "Twitter Clone",
+      "createdAt": "2022-07-10T16:26:54Z",
       "url": "",
-      "description": "LCD is a Machine Learning Application identifying types of Cancer from the CT scans form patients.",
+      "description": "Developed a full-stack Twitter clone with Spring Boot (Java) & React",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
         },
         {
-          "name": "Machine Learning",
-          "iconifyClass": "logos-jupyter"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
         }
       ]
     },
     {
       "id": "4",
-      "name": "Twitter Clone",
-      "createdAt": "2019-08-10T16:26:54Z",
-      "url": "",
-      "description": "Orchestrated full stack Spring boot project from inception to deployment, mastering both front-end and back-end development techniques, and enhancing application performance by 20% through effective environment setup and deployment strategies",
+      "name": "AthleteVerse",
+      "createdAt": "2024-11-01T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/CerebralHack",
+      "description": "A social media platform for athletes to connect and share their experiences.",
       "isFork": false,
       "languages": [
         {
@@ -75,21 +99,51 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "JAVA",
-          "iconifyClass": "logos-java"
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
         },
         {
-          "name": "SPRINGBOOT",
-          "iconifyClass": "logos-spring"
-        },
-        {
-          "name": "MYSQL",
-          "iconifyClass": "logos-mysql"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
-      "id": "4",
+      "id": "5",
+      "name": "Be My Voice",
+      "createdAt": "2020-12-20T16:26:54Z",
+      "url": "",
+      "description": "A web application that helps people with speech disabilities communicate using sign language.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "6",
       "name": "Library Management System",
       "createdAt": "2019-10-31T16:26:54Z",
       "url": "",
@@ -111,20 +165,6 @@
         {
           "name": "JAVA",
           "iconifyClass": "logos-java"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "Online Shopping WebApp",
-      "createdAt": "2019-06-01T16:26:54Z",
-      "url": "",
-      "description": "Online Shopping Webapp using Django to make shopping easy",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
         }
       ]
     }

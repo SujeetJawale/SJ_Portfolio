@@ -1,4 +1,3 @@
-// Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
 };
@@ -63,18 +62,18 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Backend Development",
+      title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "🖥️ Building robust backend systems using Java, Spring Boot & MVC, and Spring Security 6 to ensure secure and efficient applications",
-        "🖥️ Implementing RESTful APIs with a focus on maintainability and performance, and utilizing JUnit and Mockito for high code quality",
-        "🖥️ Architecting Microservices with Spring Boot, integrating Admin Server, Config Server, Zipkin, Redis, and Kafka for tracing, caching, and event-driven architecture",
-        "🖥️ Enhancing API discoverability using HATEOAS and Actuators to ensure scalability, fault tolerance, and effective monitoring.",
+        "🖥️ Building stable and responsive website front end using React-Redux and NextJS.",
+        "🖥️ Designing extensible and easy-to-use RESTful APIs using Java Spring Framework.",
+        "🖥️ Creating high-performance application backends using Node.js, Express, and Flask.",
+        "🖥️ Architecting scalable and efficient systems with microservices architecture.",
       ],
       softwareSkills: [
         {
           skillName: "Spring",
-          fontAwesomeClassname: "simple-icons:spring",
+          fontAwesomeClassname: "logos-java",
           style: {
             color: "#6DB33F",
           },
@@ -191,13 +190,13 @@ const skills = {
       ],
     },
     {
-      title: "Frontend & DA",
+      title: "Data Analytics",
       fileName: "DataScienceImg",
       skills: [
-        "🖥️ Expert in using HTML, CSS, and JavaScript to create dynamic, responsive websites for engaging user experiences.",
-        "🖥️ Proficient in leveraging React to build interactive, high-performance web applications",
-        "🖥️ Skilled in crafting and understanding intricate data models to guide strategic decisions in diverse business areas.",
-        "🖥️ Experienced in using data visualization tools like Tableau, Power BI, and Looker to create clear dashboards and reports for all stakeholders.",
+        "🖥️ Expertise in Power BI and Tableau to create dashboards and reports for data-driven decisions.",
+        "🖥️ Skilled in SQL for querying and managing large datasets to extract actionable insights.",
+        "🖥️ Experienced in designing databases, ETL processes, and DAX commands for analytics.",
+        "🖥️ Proficient in Python for data analysis, automation, and building predictive models to drive business solutions.",
       ],
       softwareSkills: [
         {
@@ -288,7 +287,7 @@ const degrees = {
       duration: "2023-Present",
       descriptions: [
         "🖥️ Graduating in May 2025",
-        "🖥️ Courses: ISE-558 Data Management for Analytics, ISE-529 Predictive Analytics, ISE-530 Optimization for Analytics, ISE-548 Enterprise Business Intelligence Systems Analytics",
+        "🖥️ Courses: CSCI-571 Web Technologies, ISE-558 Data Management, ISE-529 Predictive Analytics, ISE-530 Optimization for Analytics, ISE-548 Enterprise Business Intelligence Systems Analytics, ISE-540 Text Analytics, ISE-534 Data Analytics and Consulting",
       ],
       website_link: "https://www.usc.edu/",
     },
@@ -310,6 +309,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "Spring Boot and Mircorservices",
+      subtitle: "Telusko",
+      logo_path: "telusko.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/3e970fe5fcd25381d33ec19336cc2d98485e820595b9a3f08ce29b8cc12baa5c?u=76870426",
+      alt_name: "Spring Boot",
+      color_code: "#fff",
+    },
     {
       title: "Learning Spring with Spring Boot",
       subtitle: "Frank P Moley III",
@@ -527,7 +535,7 @@ const experience = {
         },
         {
           title: "PCCOE Sports Head",
-          company: "PCCOE ACM Student Chapter",
+          company: "ACM Student Chapter",
           company_url: "http://www.pccoepune.com/",
           logo_path: "ACM_logo.jpg",
           duration: "July 2020 - July 2021",
