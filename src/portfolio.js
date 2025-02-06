@@ -281,7 +281,7 @@ const degrees = {
   degrees: [
     {
       title: "University of Southern California",
-      subtitle: "Master of Science in Computer Technology (Analytics)",
+      subtitle: "Master of Science in Computer Science (Analytics)",
       logo_path: "USC_logo.png",
       alt_name: "USC",
       duration: "2023-Present",

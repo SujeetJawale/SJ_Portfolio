@@ -56,7 +56,7 @@
       "id": "3",
       "name": "Twitter Clone",
       "createdAt": "2022-07-10T16:26:54Z",
-      "url": "",
+      "url": "https://github.com/SujeetJawale/twitC",
       "description": "Developed a full-stack Twitter clone with Spring Boot (Java) & React",
       "isFork": false,
       "languages": [
@@ -146,7 +146,7 @@
       "id": "6",
       "name": "Library Management System",
       "createdAt": "2019-10-31T16:26:54Z",
-      "url": "",
+      "url": "https://github.com/SujeetJawale/LMS_LibraryManagementSystem",
       "description": "Full stack application for helping library workers to go paper-less for inventory management",
       "isFork": false,
       "languages": [
