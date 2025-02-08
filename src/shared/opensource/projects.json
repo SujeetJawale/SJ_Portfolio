@@ -32,57 +32,9 @@
     },
     {
       "id": "2",
-      "name": "Brain-Buster Quiz Application",
-      "createdAt": "2024-05-01T16:26:54Z",
-      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
-      "description": "A microservices-based quiz platform offering RESTful APIs for quiz creation.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JAVA",
-          "iconifyClass": "logos-java"
-        },
-        {
-          "name": "MYSQL",
-          "iconifyClass": "logos-mysql"
-        },
-        {
-          "name": "SPRINGBOOT",
-          "iconifyClass": "logos-spring"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Twitter Clone",
-      "createdAt": "2022-07-10T16:26:54Z",
-      "url": "https://github.com/SujeetJawale/twitC",
-      "description": "Developed a full-stack Twitter clone with Spring Boot (Java) & React",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JAVA",
-          "iconifyClass": "logos-java"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "MYSQL",
-          "iconifyClass": "logos-mysql"
-        },
-        {
-          "name": "SPRINGBOOT",
-          "iconifyClass": "logos-spring"
-        }
-      ]
-    },
-    {
-      "id": "4",
       "name": "AthleteVerse",
       "createdAt": "2024-11-01T16:26:54Z",
-      "url": "https://github.com/SujeetJawale/CerebralHack",
+      "url": "https://verath.vercel.app/",
       "description": "A social media platform for athletes to connect and share their experiences.",
       "isFork": false,
       "languages": [
@@ -105,6 +57,54 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Brain-Buster Quiz Application",
+      "createdAt": "2024-05-01T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
+      "description": "A microservices-based quiz platform offering RESTful APIs for quiz creation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Twitter Clone",
+      "createdAt": "2022-07-10T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/twitC",
+      "description": "Developed a full-stack Twitter clone with Spring Boot (Java) & React",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
         }
       ]
     },
