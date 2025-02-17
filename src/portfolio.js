@@ -21,7 +21,7 @@ const greeting = {
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/17O0WbTWA4A0HcYvEXwCgefPDtt9mosMO/view?usp=sharing",
+    "https://drive.google.com/file/d/1O0pTNaaZ4jU8MyCjQTVQTJAzti82q90D/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
