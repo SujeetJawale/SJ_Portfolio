@@ -24,8 +24,8 @@
 .greeting-main > * {
   flex: 1;
   margin-bottom: 30px;
-  margin-left: 50px;
 }
+
 .button-greeting-div {
   display: flex;
   margin-top: 20px;
