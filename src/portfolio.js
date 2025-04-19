@@ -21,7 +21,7 @@ const greeting = {
   subTitle:
     "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1MrXY_3vue6crHRcXYoatcGqOFmPOsWwe/view?usp=drive_link",
+    "https://drive.google.com/file/d/1WhAPPewD5Z8DP6pMdm8NAFySWOdYJiH3/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
   githubProfile: "https://github.com/SujeetJawale/",
 };
@@ -438,10 +438,10 @@ const experience = {
           company: "STEALH STARTUP",
           company_url: "",
           logo_path: "stealth.jpeg",
-          duration: "May 2024 - August 2024",
+          duration: "May 2024 - December 2024",
           location: "United States",
           description: [
-            "Enhanced notification effectiveness by 25% with WhatsApp API integration, improved cloud-native security with Java Spring rate limiting reducing attack risk by 45% and costs by 23%, refined login API rate-limiting with JPA composite keys.",
+            "Analyzed user drop-off behavior using Google Analytics and optimized the React-based UI/UX, resulting in a 15% reduction in bounce rates. Designed a machine learning-based recommendation engine leveraging behavioral analytics, which doubled the checkout conversion rate.",
           ],
           color: "#0879bf",
         },
@@ -453,7 +453,7 @@ const experience = {
           duration: "July 2022 - July 2023",
           location: "Pune, Maharashtra",
           description: [
-            "Successfully led key enhancements in Windchill's Import Export Framework, optimized data export efficiency by 25%, ensured seamless Java 11 to 17 migration, improved user satisfaction by 40%, and mentored interns to achieve a 30% reduction in deployment time with zero downtime during releases.",
+            "Developed a Windchill PLM Import/Export Handler using Spring MVC, reducing data transfer time by 25%, and resolved 30+ high-priority SPRs, improving system reliability and cutting incident response time by 40%. Migrated web services from Java 11 to 17, applied SOLID principles in MVC architecture for scalable code, and led version porting with JUnit and integration testing to enable zero-downtime deployment.",
           ],
           color: "#0879bf",
         },
@@ -465,7 +465,7 @@ const experience = {
           duration: "August 2021 - June 2022",
           location: "Pune, Maharashtra",
           description: [
-            "Refined code to meet client specifications, led JUnit and integration testing with 90% coverage in CI/CD, reduced post-deployment issues by 25%, improved code quality using SonarQube, streamlined logging with Log4j for a 20% faster issue resolution, and enhanced API documentation with Swagger, boosting integration efficiency by 15%.",
+            "Collaborated with cross-functional teams to transition to SaaS, eliminating redundancies and reducing load time by 18ms. Achieved 90% test coverage via Jenkins in CI/CD, improved code quality with SonarQube, and automated product setup using Bash, cutting installation time by 40%.",
           ],
           color: "#D83B01",
         },
@@ -502,7 +502,7 @@ const experience = {
           duration: "August 2020 - January 2021",
           location: "Pune, Maharashtra",
           description: [
-            "Developed a Spring Boot application with PostgreSQL for employee management, enhancing user management and audit data, while strengthening JWT authentication and integrating OAuth with the latest Spring Security updates, leading to a 30% increase in user access.",
+            "Developed a Spring Boot-based employee management application using Java and OOD principles, optimizing PostgreSQL storage and enhancing data security with audit logs for full traceability. Utilized SQL with Tableau to extract and visualize insights, effectively communicating findings to clients.",
           ],
           color: "#D83B01",
         },
