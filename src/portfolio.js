@@ -72,10 +72,32 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Spring",
-          fontAwesomeClassname: "logos-java",
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
           style: {
-            color: "#6DB33F",
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "React",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
           },
         },
         {
@@ -93,13 +115,6 @@ const skills = {
           },
         },
         {
-          skillName: "Postman",
-          fontAwesomeClassname: "simple-icons:postman",
-          style: {
-            color: "#FF6C37",
-          },
-        },
-        {
           skillName: "Apache Kafka",
           fontAwesomeClassname: "simple-icons:apachekafka",
           style: {
@@ -107,24 +122,10 @@ const skills = {
           },
         },
         {
-          skillName: "Maven",
-          fontAwesomeClassname: "simple-icons:apachemaven",
-          style: {
-            color: "#C71A36",
-          },
-        },
-        {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
           style: {
             color: "#f05133",
-          },
-        },
-        {
-          skillName: "Jenkins",
-          fontAwesomeClassname: "simple-icons:jenkins",
-          style: {
-            color: "#D24939",
           },
         },
         {
@@ -199,35 +200,6 @@ const skills = {
         "🖥️ Proficient in Python for data analysis, automation, and building predictive models to drive business solutions.",
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "React",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
