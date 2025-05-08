@@ -21,3 +21,9 @@
 .software-skill-inline > i:hover {
   color: #645beb;
 }
+
+@media (max-width: 768px) {
+  .software-skills-main-div {
+    padding-left: 25px;
+  }
+}

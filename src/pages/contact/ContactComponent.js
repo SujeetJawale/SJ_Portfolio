@@ -51,15 +51,6 @@ class Contact extends Component {
                     href={greeting.resumeLink}
                     theme={theme}
                   />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-                <br />
-
                 </div>
               </div>
             </div>
@@ -93,7 +84,6 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="address-heading-text-div">
-                <br /><br /><br /><br /><br /><br /><br /><br />
                 <h1
                   className="address-heading-text"
                   style={{ color: theme.text }}

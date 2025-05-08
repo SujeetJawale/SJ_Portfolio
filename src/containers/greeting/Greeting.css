@@ -31,10 +31,16 @@
   margin-top: 20px;
 }
 
+.portfolio-repo-btn-div {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+}
+
 .greeting-text {
   margin-top: 80px;
   font-size: 70px;
-  line-height: 1.1;
+  line-height: 1;
   font-family: "Google Sans Bold";
 }
 
@@ -74,12 +80,12 @@
     justify-content: space-around;
   }
   .greeting-text {
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 0px;
     text-align: center;
   }
   .greeting-nickname {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
   }
   .greeting-text-p {
@@ -96,5 +102,6 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    gap: 10px;
   }
 }

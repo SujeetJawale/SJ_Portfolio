@@ -44,6 +44,7 @@
 }
 
 .contact-heading-text-div {
+  margin-bottom: 40px;
   text-align: center;
 }
 
@@ -52,6 +53,7 @@
 }
 
 .address-heading-text-div {
+  margin-top: 100px;
   text-align: center;
 }
 
@@ -145,6 +147,11 @@
     margin-top: 0px;
   }
 
+  .contact-heading-text-div {
+    margin-bottom: -10px;
+    text-align: center;
+  }
+
   .blog-heading-text {
     font-size: 30px;
     margin-top: 0px;
@@ -169,7 +176,7 @@
   }
 
   .address-heading-text-div {
-    margin-top: 40px;
+    margin-top: 10px;
   }
 
   .contact-heading-div {
@@ -190,5 +197,11 @@
     margin-right: 0px;
     line-height: normal;
     text-align: center;
+  }
+  .resume-btn-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0;
   }
 }
