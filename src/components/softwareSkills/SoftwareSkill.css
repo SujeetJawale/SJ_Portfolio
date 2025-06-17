@@ -24,6 +24,7 @@
 
 @media (max-width: 768px) {
   .software-skills-main-div {
+    margin-top: 1rem;
     padding-left: 25px;
   }
 }

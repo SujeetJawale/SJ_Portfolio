@@ -160,3 +160,20 @@
     text-align: justify;
   }
 }
+
+.experience-card-description-list {
+  padding-left: 1.2rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.experience-card-description-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .experience-card-description-list {
+    text-align: start;
+    margin: 0.5rem 1rem 1rem 1rem;
+  }
+}

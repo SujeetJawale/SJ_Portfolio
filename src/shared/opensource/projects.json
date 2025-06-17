@@ -9,24 +9,20 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Typescript",
-          "iconifyClass": "logos-typescript"
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
         },
         {
           "name": "React",
           "iconifyClass": "logos-react"
         },
         {
-          "name": "MongoDB",
-          "iconifyClass": "logos-mongodb"
-        },
-        {
           "name": "NodeJS",
           "iconifyClass": "logos-nodejs"
-        },
-        {
-          "name": "Express",
-          "iconifyClass": "logos-express"
         }
       ]
     },

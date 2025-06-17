@@ -15,11 +15,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Sujeet Jawale",
+  title: "Hi, I’m Sujeet",
   logo_name: "Sujeet Jawale",
-  nickname: "Software Developer",
+  nickname: "Software Engineer",
   subTitle:
-    "Give me a problem, and I'll paint you a masterpiece of unconventional solutions.",
+    "Turning coffee into scalable solutions and bugs into features since 2022",
   resumeLink:
     "https://drive.google.com/file/d/1WhAPPewD5Z8DP6pMdm8NAFySWOdYJiH3/view?usp=drive_link",
   portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
@@ -256,9 +256,9 @@ const degrees = {
       subtitle: "Master of Science in Computer Science (Analytics)",
       logo_path: "USC_logo.png",
       alt_name: "USC",
-      duration: "2023-Present",
+      duration: "2023-2025",
       descriptions: [
-        "🖥️ Graduating in May 2025",
+        "🖥️ Graduated in May 2025",
         "🖥️ Courses: CSCI-571 Web Technologies, ISE-558 Data Management, ISE-529 Predictive Analytics, ISE-530 Optimization for Analytics, ISE-548 Enterprise Business Intelligence Systems Analytics, ISE-540 Text Analytics, ISE-534 Data Analytics and Consulting",
       ],
       website_link: "https://www.usc.edu/",
@@ -407,13 +407,16 @@ const experience = {
       experiences: [
         {
           title: "Software Engineer",
-          company: "STEALH STARTUP",
+          company: "STEALH STARTUP - Internship",
           company_url: "",
           logo_path: "stealth.jpeg",
           duration: "May 2024 - December 2024",
           location: "United States",
           description: [
-            "Analyzed user drop-off behavior using Google Analytics and optimized the React-based UI/UX, resulting in a 15% reduction in bounce rates. Designed a machine learning-based recommendation engine leveraging behavioral analytics, which doubled the checkout conversion rate.",
+            "Revamped the React-based UI, improving navigation and responsiveness, which led to a 15% drop in bounce rates and enhanced user session duration.",
+            "Implemented Redis caching for message state tracking (read/unread), reducing data fetch latency by 30% and minimizing unnecessary backend calls.",
+            "Integrated Twilio API with WhatsApp for real-time order notifications, resulting in a 25% increase in communication efficiency with 99% delivery success.",
+            "Led prototype and POC development for upcoming features using Node.js and React, enabling 20% faster validation and shorter feature delivery cycles.",
           ],
           color: "#0879bf",
         },
@@ -425,7 +428,10 @@ const experience = {
           duration: "July 2022 - July 2023",
           location: "Pune, Maharashtra",
           description: [
-            "Developed a Windchill PLM Import/Export Handler using Spring MVC, reducing data transfer time by 25%, and resolved 30+ high-priority SPRs, improving system reliability and cutting incident response time by 40%. Migrated web services from Java 11 to 17, applied SOLID principles in MVC architecture for scalable code, and led version porting with JUnit and integration testing to enable zero-downtime deployment.",
+            "Engineered Spring Boot microservices with RESTful APIs and Kafka messaging for PTC’s Windchill PLM suite, boosting data-processing throughput for Fortune 500 customers.",
+            "Optimized high-traffic backend endpoints profiling Hibernate queries and tuning caching layers to cut API response times by 20% and meet tighter SLA targets.",
+            "Redesigned the Import-Export Framework’s Application Export Handler, trimming data-transfer delays by 25% and shortening release roll-out cycles.",
+            "Championed Agile best practices, driving sprint planning, code reviews, and 100+ JUnit/Mockito tests that kept post-release defect leakage under 2%.",
           ],
           color: "#0879bf",
         },
@@ -437,7 +443,10 @@ const experience = {
           duration: "August 2021 - June 2022",
           location: "Pune, Maharashtra",
           description: [
-            "Collaborated with cross-functional teams to transition to SaaS, eliminating redundancies and reducing load time by 18ms. Achieved 90% test coverage via Jenkins in CI/CD, improved code quality with SonarQube, and automated product setup using Bash, cutting installation time by 40%.",
+            "Designed and implemented JSON, Avro, and XML schemas to integrate APIs with real-time message systems like Apache Kafka and AWS SQS, ensuring seamless data flow.",
+            "Automated product setup using Bash scripting, cutting local installation time by 40% and accelerating onboarding for new developers.",
+            "Conducted rigorous testing with JUnit, Cucumber, and Rest Assured, enabling the delivery of fault-tolerant systems with near-zero post-deployment defects.",
+            "Contributed to all phases of the SDLC using Agile methodology, from requirements gathering to deployment, documentation, and maintenance of production-grade systems.",
           ],
           color: "#D83B01",
         },
@@ -448,21 +457,12 @@ const experience = {
             "https://www.linkedin.com/company/knowledge-solutions-india/",
           logo_path: "KSI_logo.jpg",
           duration: "February 2021 - May 2021",
-          location: "Pune, Mharashtra, India",
+          location: "Pune, Maharashtra, India",
           description: [
-            "Managed product catalog development with ETL, SQL, and Tableau, boosting product quality and saving costs, analyzed key projects like a Covid-19 study with SQL and Python, and improved data science workflows by 15% with enhanced Tableau visualizations.",
+            "Managed product catalog development with ETL, SQL, and Tableau, boosting product quality and reducing operational costs.",
+            "Analyzed key projects such as a COVID 19 study using SQL and Python to extract actionable insights.",
+            "Enhanced data science workflows by 15% through the creation of advanced Tableau dashboards and visualizations.",
           ],
-          color: "#D83B01",
-        },
-        {
-          title: "Data Science And Business Analytics Intern",
-          company: "The Spark Foundation",
-          company_url: "https://internship.thesparksfoundation.info/",
-          logo_path: "TSF_logo.jpg",
-          duration: "January 2021 - February 2021",
-          location: "Pune, Mharashtra, India",
-          description:
-            "Collaborated on a database-driven projects. Data Science and Business Analytics Intern in TSF, Here we got training for one month and then we worked on two major projects. From data preprocessing and feature engineering to employing advanced machine learning algorithms, I thrived in the exploration and interpretation of data to unearth meaningful patterns and trends. 💡 My passion for data-driven problem-solving was further fueled by the impact these projects had on real-world challenges.",
           color: "#D83B01",
         },
         {
@@ -474,7 +474,10 @@ const experience = {
           duration: "August 2020 - January 2021",
           location: "Pune, Maharashtra",
           description: [
-            "Developed a Spring Boot-based employee management application using Java and OOD principles, optimizing PostgreSQL storage and enhancing data security with audit logs for full traceability. Utilized SQL with Tableau to extract and visualize insights, effectively communicating findings to clients.",
+            "Developed scalable Python solutions to automate data processing pipelines, saving 7 hours of manual work per week.",
+            "Implemented AWS-based cloud systems to enhance data ingestion, storage, and processing capabilities.",
+            "Boosted system performance by 30% through proactive Datadog monitoring and Python-driven optimizations.",
+            "Drove Tableau adoption by building interactive dashboards on SQL-extracted data to clearly communicate insights to clients.",
           ],
           color: "#D83B01",
         },
