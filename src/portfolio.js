@@ -47,7 +47,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:sjawale@usc.edu",
+    link: "mailto:jawalesujeet10@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -633,8 +633,8 @@ const contactPageData = {
 
   addressSection: {
     title: "Email Address",
-    subtitle: "sjawale@usc.edu ",
-    email2: "jawalesujeet10@gmail.com",
+    subtitle: "jawalesujeet10@gmail.com",
+    email2: "sjawale@usc.edu",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
