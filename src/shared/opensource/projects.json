@@ -2,6 +2,28 @@
   "data": [
     {
       "id": "1",
+      "name": "Claims Processing System",
+      "createdAt": "2025-05-25T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/ClaimProcessingSystem",
+      "description": "A full-stack application for processing insurance claims, built with the Spring Framework.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Spring",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "1",
       "name": "Weather Application",
       "createdAt": "2024-12-01T16:26:54Z",
       "url": "https://weatherappreact-441809.uw.r.appspot.com/",
@@ -75,28 +97,6 @@
         {
           "name": "OpenCV",
           "iconifyClass": "logos-opencv"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "Brain-Buster Quiz Application",
-      "createdAt": "2024-05-01T16:26:54Z",
-      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
-      "description": "A microservices-based quiz platform offering RESTful APIs for quiz creation.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JAVA",
-          "iconifyClass": "logos-java"
-        },
-        {
-          "name": "MYSQL",
-          "iconifyClass": "logos-mysql"
-        },
-        {
-          "name": "SPRINGBOOT",
-          "iconifyClass": "logos-spring"
         }
       ]
     },
