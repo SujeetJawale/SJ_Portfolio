@@ -410,7 +410,7 @@ const experience = {
           company: "STEALH STARTUP - Internship",
           company_url: "",
           logo_path: "stealth.jpeg",
-          duration: "May 2024 - December 2024",
+          duration: "May 2024 - April 2025",
           location: "United States",
           description: [
             "Redesigned key front-end components in React using Google Analytics insights, improving user flow and reducing bounce rate by 15%.",
