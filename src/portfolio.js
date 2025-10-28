@@ -282,6 +282,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "DevOps with AWS: From Basics to Mastery",
+      subtitle: "Telusko",
+      logo_path: "telusko.png",
+      certificate_link:
+        "https://courses.telusko.com/learn/certificate/9688965-215088",
+      alt_name: "Spring Boot",
+      color_code: "#fff",
+    },
+    {
       title: "Spring Boot and Mircorservices",
       subtitle: "Telusko",
       logo_path: "telusko.png",
