@@ -26,7 +26,7 @@
       "id": "1",
       "name": "Weather Application",
       "createdAt": "2024-12-01T16:26:54Z",
-      "url": "https://weatherappreact-441809.uw.r.appspot.com/",
+      "url": "https://github.com/SujeetJawale/weathApp",
       "description": "A weather app built as the final project for a course, providing real-time weather updates.",
       "isFork": false,
       "languages": [
@@ -50,31 +50,19 @@
     },
     {
       "id": "2",
-      "name": "AthleteVerse (CerebralHacks 2024)",
-      "createdAt": "2024-11-01T16:26:54Z",
-      "url": "https://verath.vercel.app/",
-      "description": "A social media platform for athletes to connect and share their experiences.",
+      "name": "Scanify",
+      "createdAt": "2024-08-10T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/ScanRTCC",
+      "description": "Scanify automates invoice scanning, data extraction, and record management for vendors, supervisors, and accountants.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React Native",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JAVASCRIPT",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Flask",
-          "iconifyClass": "logos-flask"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Typescript",
+          "iconifyClass": "logos-typescript"
         }
       ]
     },
